@@ -1,0 +1,10 @@
+{
+  "description": "This internal dashboard serves as a BI and reporting tool, enabling users to visualize and analyze data effectively for informed decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
